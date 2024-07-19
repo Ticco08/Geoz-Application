@@ -5,3 +5,5 @@ pyproj
 streamlit-folium
 matplotlib
 openpyxl
+scipy
+base64
